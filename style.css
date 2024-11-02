@@ -9,11 +9,11 @@ body {
 }
 h1 {
     font-family: "Unlock", serif;
-    height: 300px;
+    height: 200px;
     font-weight: 400;
     font-style: normal;
     color:rgb(173, 183, 156);
-    font-size: 36px;
+    font-size: 50px;
     text-align: center;
     background-image: url("https://i.pinimg.com/originals/0d/85/69/0d8569fe07a2947f3ef32a25c59e741f.jpg");
     background-size: cover;
@@ -37,7 +37,7 @@ img {
 table {
     width: auto;
     border-collapse: collapse;
-    width: 1000px;
+    width: 800px;
 }
 th, td {
     padding: 10px;
@@ -49,6 +49,14 @@ th {
     font-weight: bold;
     text-align: center;
     font-size: large;
+}
+.content-container {
+    display: flex;
+    gap: 20px; 
+}
+.column {
+    flex: 1; 
+    padding: 10px;
 }
 
 
