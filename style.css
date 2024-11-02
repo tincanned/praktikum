@@ -1,7 +1,10 @@
 body {
-    background-color: dimgrey ;
+    background-color: blanchedalmond;
 }
 h1 {
-    color:midnightblue
-    font-size: 
+    font-family: "Unlock", serif;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(61, 75, 38);
+    font-size: 36px;
 }
